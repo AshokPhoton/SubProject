@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5496896E-7A64-4490-9679-15419E2C2271</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DepProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>24A972D6B3B3D42E4AC2B1FD721EE96AB5F4D55C</key>
+		<string>https://github.com/AshokPhoton/MainProject.git</string>
+		<key>9FC9505CB554CAE7F44EE1B3997DB11DD9F9AED2</key>
+		<string>https://github.com/AshokPhoton/SubProject.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DepProject/DepProject.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>24A972D6B3B3D42E4AC2B1FD721EE96AB5F4D55C</key>
+		<string>../../../..</string>
+		<key>9FC9505CB554CAE7F44EE1B3997DB11DD9F9AED2</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AshokPhoton/SubProject.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9FC9505CB554CAE7F44EE1B3997DB11DD9F9AED2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>24A972D6B3B3D42E4AC2B1FD721EE96AB5F4D55C</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9FC9505CB554CAE7F44EE1B3997DB11DD9F9AED2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SubProject</string>
+		</dict>
+	</array>
+</dict>
+</plist>
