@@ -10,4 +10,9 @@
 
 @implementation DepProject
 
+-(void) printName
+{
+    NSLog(@"Printing Work");
+}
+
 @end

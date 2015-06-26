@@ -12,4 +12,6 @@
 
 @interface DepProject : NSObject
 
+-(void) printName;
+
 @end
